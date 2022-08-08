@@ -65,7 +65,7 @@ Array:size is fixed
    MethodName: any name
    Parameter: Data Type
 
- Method Overloading: multiple different methods sharing
+ Method Overloading: multiple different methods sharing the same method name
 
 
 
