@@ -30,3 +30,50 @@ Type Castings:
 
   StringBuffer :char sequences. MUTABLE
                     new StringBuffer("Java")
+
+   Loops: repeated actions
+         for loop: if the number of iteration is fixed
+             for(initialization; condition; Iteration){
+                  statements
+             }
+         while loop: if the number of iteration is NOT fixed,and we want it to be iterated until condition is false
+             while(Condition){
+             statements
+             }
+
+Array:size is fixed
+           Has Index
+           Supports primitives & non- primitives
+           Can be Multi-dimensional
+
+ For Each: MUST be applied to data structures
+          Iteration order is fixed (beginning to end) (baştan sona alıyor çok kullanışlı bu yüzden)
+
+
+ Custom Method: Function
+                grouping a series of code fragments  that can perform a task
+                improves the reusability
+
+   Access- Modifier     Specifier     return-Type  methodName(Parameters){
+         code fragments that can perform the task;
+   }
+
+
+   Access-Modifier: public, protected, default, private
+   Specifier: static ,final,abstract,synchronized
+   ReturnType: void,Data types(int , String ...)
+   MethodName: any name
+   Parameter: Data Type
+
+
+
+
+
+
+
+
+
+
+
+
+

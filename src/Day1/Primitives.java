@@ -1,6 +1,6 @@
 package Day1;
 
-public class Primitvives {
+public class Primitives {
     public static void main(String[] args) {
         int a=100;
         double b = 2.5;
