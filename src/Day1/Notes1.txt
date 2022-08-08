@@ -1,0 +1,32 @@
+Data Types:
+1.Primitive Data Types:
+  byte< short< int < long< float<double
+
+2.Non-primitive Data Types
+include all of the objects
+
+Type Castings:
+    1.Primitive Type Casting
+         1.1 implicit casting: casting smaller primitive type to larger primitive type
+         1.2 Explicit casting : casting larger primitive type to smaller primitive type
+
+
+    2. Reference Type casting
+         2.1 Upcasting   : casting smaller reference type to larger reference type
+         2.2 Down-casting : casting larger reference type to smaller reference type
+
+
+  Wrapper Classes: the objects that represents the primitives
+
+  String : char sequences. IMMUTABLE
+           "Java"
+           new String("Java")
+
+        String Methods: charAt, length, lower & upper,substring,equals,contains,startsWith,endsWith,split,toCharArray
+            indexOf,lastİndexOf
+
+  StringBUilder : char sequences. MUTABLE
+                  new StringBuilder("Java")
+
+  StringBuffer :char sequences. MUTABLE
+                    new StringBuffer("Java")
