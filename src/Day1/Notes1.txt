@@ -15,6 +15,10 @@ Type Castings:
          2.1 Upcasting   : casting smaller reference type to larger reference type
          2.2 Down-casting : casting larger reference type to smaller reference type
 
+         WebDriver driver=new FireFoxDriver();
+         ((TakeScreenShot)driver).takeScreenShot();
+          ((JavaScriptExecuter)driver).executeScript();
+
 
   Wrapper Classes: the objects that represents the primitives
 

@@ -36,10 +36,3 @@ OOP:Object oriented programming
                              Collection
                              Map
 
-  Polymorphism: ability of the obj to take on many forms
-                reference type decides what is accessible
-
-                Driver:
-                       JavaScriptExecuter getDriver(){
-
-                       }

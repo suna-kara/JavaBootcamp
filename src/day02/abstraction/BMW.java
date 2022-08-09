@@ -1,6 +1,6 @@
 package day02.abstraction;
 
-public abstract class BMV extends  Car implements LuxuryCar{
+public class BMW extends  Car implements LuxuryCar{
     @Override
     public void start() {
 
