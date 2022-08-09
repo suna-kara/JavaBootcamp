@@ -74,18 +74,34 @@ Constructor:  special method that every class must have
               used for creating object.can determine how the obj should be created
               execution depends on the object
 
-         Access- Modifier   ClassName(){
-
-
-
+         Access- Modifier   ClassName(parameters){
          }
 
+   public BasePage(){
+   initElement(driver,this)
+   }
+  @FindBy
+
+  private Driver(){
+
+  }
+  getDriver()
+
+static vs instance:
+          static: belongs to the class
+                    there is ONLY one copy for all objects
+
+          instance: belongs to the object
+                    There are MULTIPLE copies.each obj has its own copy
 
 
+ Import statements:
+           regular import:
+               import package.Class;
+               import package.*;
 
-
-
-
+           static import:
+                       import static package.Class.staticMember; // only staticMember import
 
 
 

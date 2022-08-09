@@ -1,0 +1,14 @@
+OOP:Object oriented programming
+         Less code
+         Readable
+         Reusable
+
+  final keyword: unchangable
+         variable: can not be reassigned
+         method:  can not be overridden
+         class: can not be inherited
+
+  final  vs  finally vs finalize
+
+  Abstraction: Ignore details
+               Only functionality will be provided to the user
