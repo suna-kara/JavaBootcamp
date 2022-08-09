@@ -12,3 +12,27 @@ OOP:Object oriented programming
 
   Abstraction: Ignore details
                Only functionality will be provided to the user
+               hiding the implementation details from the user
+               Focus on essentials
+
+               Abstract Method: method without body
+
+                2 ways:
+                   1. abstract class: meant to be parent class
+                     Ex: BasePage, TestBase
+
+
+                   2. Interface: blueprint of the class,meant to be implemented
+                                 to provide addition methods through the multiple inheritance
+
+                          Ex:
+                             WebDriver
+                             WebElement
+                             TakeScreenShot
+                             JavaScriptExecuter
+                             ....
+                             List
+                             Set
+                             Collection
+                             Map
+
